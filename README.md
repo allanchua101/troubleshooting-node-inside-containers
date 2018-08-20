@@ -1,2 +1,2 @@
-# troubleshooting-node-inside-containers
-Troubleshooting tips and tricks NodeJS apps inside containers.
+# Troubleshooting Node Inside Containers
+This repository is my collection of issue detection related to NodeJS apps running inside containers.
