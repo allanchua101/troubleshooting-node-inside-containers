@@ -1,0 +1,1 @@
+docker run --rm -p 8027:3000 --name port-switching-container port-switching-demo
